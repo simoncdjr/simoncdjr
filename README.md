@@ -1,0 +1,4 @@
+- Hello. This is supposed to be my professional account.
+- I'll try to upload code here to show that I can actually code.
+- I speak English natively, Spanish with decent profeciency. I am learning Japanese and Arabic.
+- I primarily code Java. Might pick up Python, but for what reason I do not know.
